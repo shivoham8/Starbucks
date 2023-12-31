@@ -31,9 +31,9 @@ Explore the Starbucks experience by visiting [Learn More](https://www.starbucks.
 
 ## Image Gallery
 
-- ![Starbucks](Images/img1.png)
-- ![Thumbnail 2](Images/thumb2.png)
-- ![Thumbnail 3](Images/thumb3.png)
+![Starbucks](Images/img1.png)
+![Thumbnail 2](Images/thumb2.png)
+![Thumbnail 3](Images/thumb3.png)
 
 ## Social Media
 
