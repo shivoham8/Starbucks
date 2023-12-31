@@ -1,7 +1,6 @@
 # Starbucks Website Landing Page
 
 ![Starbucks Logo](Images/logo.png)
-<img src="Images/logo.png" height=200 width=200>
 
 ## Navigation
 - [Home](#)
